@@ -1,0 +1,13 @@
+{
+    "name": "vinhphuc/standard",
+    "authors": [
+        {
+            "name": "Vinh Phuc",
+            "email": "travis83bui@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+
+    }
+}
