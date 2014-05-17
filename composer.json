@@ -6,8 +6,13 @@
             "email": "travis83bui@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
+    "repositories": [
+	{
+		"type": "vcs",
+		"url": "https://github.com/travis83bui/app-standard.git"
+	}
+	],
     "require": {
-
+	
     }
 }
