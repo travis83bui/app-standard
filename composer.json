@@ -1,18 +1,14 @@
 {
     "name": "travis83bui/app-standard",
+    "license": "MIT",
     "authors": [
         {
             "name": "Vinh Phuc",
             "email": "travis83bui@gmail.com"
         }
     ],
-    "repositories": [
-	{
-		"type": "vcs",
-		"url": "https://github.com/travis83bui/app-standard.git"
-	}
-	],
-    "require": {
-	
+	"minimum-stability": "beta",
+	"require": {
+
     }
 }
