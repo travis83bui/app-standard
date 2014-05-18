@@ -9,6 +9,7 @@
     ],
 	"minimum-stability": "beta",
 	"require": {
-
-    }
+			"travis83bui/app-standard": "dev-app-standard"
+	}
+    
 }
